@@ -1,4 +1,4 @@
 DNA extraction 
 metagenomics
 16S sequencing 
-statistical analysis
+Statistical Analysis
